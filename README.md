@@ -63,11 +63,11 @@ write the reducer logic for the actions 👉 Rinse and repeat
 
 #### _MVP Requirements:_
 
-- Move the given state to the reducer as the initial state for the Redux store.
-- Set up the Redux flow
-- User should be able to add features to their car
-- User should be able to remove added features from their car
-- Total should update as user adds and removes features from their car
+- [x] Move the given state to the reducer as the initial state for the Redux store.
+- [x] Set up the Redux flow
+- [x] User should be able to add features to their car
+- [x] User should be able to remove added features from their car
+- [x] Total should update as user adds and removes features from their car
 
 ### Task 3: Stretch Problems
 
@@ -79,4 +79,4 @@ Do not attempt stretch problems until MVP has been reached and a final commit ha
 - Implement an API from one of these sites [here](https://www.google.com/search?q=car+sales+api&rlz=1C5CHFA_enUS809US809&oq=car+sales+api&aqs=chrome..69i57j0l5.3580j0j1&sourceid=chrome&ie=UTF-8). I don't know if there are any good open APIs for this, so explore around. Check out what data these APIs return, and what you think would be fun to work with. The sky is the limit here!
 
 ## Submission Format
-* [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+* [x] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
